@@ -2,6 +2,10 @@
 
 Course materials and exercises following the Udemy course: [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
 
+> **This is Course #1 of the [Aegis Nexus curriculum](../CURRICULUM.md).** See
+> [`PROGRESS.md`](./PROGRESS.md) for live status + resume cursor and [`ROADMAP.md`](./ROADMAP.md)
+> for the path forward.
+
 ## Course Structure
 
 This repository is organized by course sections, with each section containing:
@@ -17,7 +21,10 @@ This repository is organized by course sections, with each section containing:
 5. **Video Basics** - Working with video files and camera streams
 6. **Object Detection** - Template matching, edge detection, contours, and face detection
 7. **Object Tracking** - Optical flow, MeanShift, CamShift, and tracking APIs
-8. **Deep Learning for Computer Vision** - Neural networks, CNNs, and deep learning with Keras
+8. **Deep Learning for Computer Vision** — *skim & skip.* The course covers CNNs in
+   Keras/TensorFlow; per the curriculum, deep learning is routed to **PyTorch (Course #2)**
+   and **YOLOv12 (Course #6)**. Capture concepts as a note (esp. classification metrics);
+   do not install TF/Keras. See [`ROADMAP.md`](./ROADMAP.md).
 9. **Capstone Project** - Hands-on project combining learned concepts
 
 ## Setup
